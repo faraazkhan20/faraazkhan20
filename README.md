@@ -9,6 +9,9 @@
 ⚛️ [React-Journey](https://github.com/faraazkhan20/React-Journey) — A curated repository to learn React.js.  
 🟩 [Node-Journey](https://github.com/faraazkhan20/Node-Journey) — A curated repository to learn Node.js.  
 
+<!-- | Basic | Intermediate | Advanced |
+|--------|--------|--------|
+| 📋 [Todo App](https://github.com/yourusername/project1) — A Todo App. <br> ❌ [Tic Tac Toe](https://github.com/yourusername/project1) — A Tic Tac Toe Game. <br> ❌ [Chat App](https://github.com/yourusername/project1) — A Tic Tac Toe Game. | Cooking... | Cooking... | -->
 <!-- - 🚀 **[Project 1](https://github.com/yourusername/project1)** — Brief one-liner
 - 🎯 **[Project 2](https://github.com/yourusername/project2)** — Brief one-liner
 - 🛠️ **[Project 3](https://github.com/yourusername/project3)** — Brief one-liner
