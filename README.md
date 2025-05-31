@@ -1,7 +1,12 @@
 ### 🚀 Projects
-📋 [Todo App](https://github.com/yourusername/project1) — A Todo App
+📋 [Todo App](https://github.com/yourusername/project1) — A Todo App.
 <!-- - 🔗 [Project 2](https://github.com/yourusername/project2) — Brief description of Project 2 -->
 <!-- - 🔗 [Project 3](https://github.com/yourusername/project3) — Brief description of Project 3 -->
+
+### 📁 Repos
+🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A curated repository to master JavaScript.
+<!-- 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A repository to learn JavaScript -->
+<!-- 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A repository to learn JavaScript -->
 
 <!-- - 🚀 **[Project 1](https://github.com/yourusername/project1)** — Brief one-liner
 - 🎯 **[Project 2](https://github.com/yourusername/project2)** — Brief one-liner
