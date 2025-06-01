@@ -1,6 +1,6 @@
 ### 🚀 Projects
-📋 [Todo App](https://github.com/yourusername/project1) — A Todo App.  
-❌ [Tic Tac Toe](https://github.com/yourusername/project1) — A Tic Tac Toe Game.
+📋 [Todo App](https://github.com/faraazkhan20/todo-app) — A Todo App.  
+❌ [Tic Tac Toe](https://github.com/faraazkhan20/tictactoe-app) — A Tic Tac Toe Game.
 <!-- - 🔗 [Project 2](https://github.com/yourusername/project2) — Brief description of Project 2 -->
 <!-- - 🔗 [Project 3](https://github.com/yourusername/project3) — Brief description of Project 3 -->
 
