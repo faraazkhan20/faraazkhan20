@@ -1,6 +1,7 @@
 ### 🚀 Projects
 📋 [Todo App](https://github.com/faraazkhan20/todo-app) — A Todo App.  
-❌ [Tic Tac Toe](https://github.com/faraazkhan20/tictactoe-app) — A Tic Tac Toe Game.
+❌ [Tic Tac Toe](https://github.com/faraazkhan20/tictactoe-app) — A Tic Tac Toe Game.  
+❌ [Snake Game](https://github.com/faraazkhan20/snake-game) — A Snake Game.
 <!-- - 🔗 [Project 2](https://github.com/yourusername/project2) — Brief description of Project 2 -->
 <!-- - 🔗 [Project 3](https://github.com/yourusername/project3) — Brief description of Project 3 -->
 
