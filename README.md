@@ -7,6 +7,7 @@
 
 ### 📁 Repositories
 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A curated repository to learn JavaScript.  
+🛢️ [SQL-Journey](https://github.com/faraazkhan20/SQL-Journey) — A curated repository to learn SQL.  
 ⚛️ [React-Journey](https://github.com/faraazkhan20/React-Journey) — A curated repository to learn React.js.  
 🟩 [Node-Journey](https://github.com/faraazkhan20/Node-Journey) — A curated repository to learn Node.js.  
 
