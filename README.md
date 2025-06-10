@@ -6,6 +6,7 @@
 <!-- - 🔗 [Project 2](https://github.com/yourusername/project2) — Brief description of Project 2 -->
 <!-- - 🔗 [Project 3](https://github.com/yourusername/project3) — Brief description of Project 3 -->
 <!-- - 🔗 [Project 4](https://github.com/yourusername/project4) — Brief description of Project 4 -->
+<!-- - 🔗 [Project 5](https://github.com/yourusername/project5) — Brief description of Project 5 -->
 
 ### 📁 Repositories
 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A curated repository to learn JavaScript.  
