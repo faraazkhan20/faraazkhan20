@@ -4,6 +4,7 @@
 🐍 [Snake Game](https://github.com/faraazkhan20/snake-game) — A Snake Game.  
 🧮 [Calculator](https://github.com/faraazkhan20/calculator) — A Calculator.
 <!-- - 🔗 [Project 2](https://github.com/faraazkhan20/project2) — Brief description of Project 2 -->
+<!-- - 🔗 [Project 3](https://github.com/faraazkhan20/project3) — Brief description of Project 3 -->
 
 ### 📁 Repositories
 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A curated repository to learn JavaScript.  
