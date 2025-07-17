@@ -3,9 +3,9 @@
 ❌ [Tic Tac Toe](https://github.com/faraazkhan20/tictactoe-app) — A Tic Tac Toe Game.  
 🐍 [Snake Game](https://github.com/faraazkhan20/snake-game) — A Snake Game.  
 🧮 [Calculator](https://github.com/faraazkhan20/calculator) — A Calculator.
+<!-- - 🔗 [Project 1](https://github.com/faraazkhan20/project1) — Brief description of Project 1 -->
 <!-- - 🔗 [Project 2](https://github.com/faraazkhan20/project2) — Brief description of Project 2 -->
 <!-- - 🔗 [Project 3](https://github.com/faraazkhan20/project3) — Brief description of Project 3 -->
-<!-- - 🔗 [Project 4](https://github.com/faraazkhan20/project4) — Brief description of Project 4 -->
 
 ### 📁 Repositories
 🟨 [JavaScript-Journey](https://github.com/faraazkhan20/JavaScript-Journey) — A curated repository to learn JavaScript.  
